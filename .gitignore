@@ -4,5 +4,6 @@ build
 *.cia
 *.elf
 *.smdh
+*.bak
 Thumbs.db
 releases/*
